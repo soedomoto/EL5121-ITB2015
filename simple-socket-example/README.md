@@ -3,7 +3,7 @@ This is socket example written in nodejs for supporting EL5121 Object Oriented E
 
 ### Requirement
 This application is written in Javascript. You must install NodeJS to make this application run.
-To install NodeJS please follow this link [a link](https://nodejs.org/en/download/)
+To install NodeJS please follow this [link](https://nodejs.org/en/download/)
 
 ### Installation
 This application do not need to be installed on your system. To run this application, just type in your terminal or command prompt.
