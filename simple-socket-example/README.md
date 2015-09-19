@@ -19,6 +19,8 @@ node client.js
 ```
 
 ### Screeenshots
+<img src="/simple-socket-example/screenshots/Server.png" alt="Socket Server" width="200px">
+<img src="/simple-socket-example/screenshots/Client.png" alt="Socket Client" width="200px">
 ![Socket Server](/simple-socket-example/screenshots/Server.png?raw=true =100x)
 ![Socket Client](/simple-socket-example/screenshots/Client.png?raw=true =100x)
 
