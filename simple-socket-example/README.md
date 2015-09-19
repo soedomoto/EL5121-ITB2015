@@ -18,5 +18,9 @@ Run client
 node client.js
 ```
 
+### Screeenshots
+![Socket Server](https://raw.githubusercontent.com/soedomoto/EL5121-ITB2015/master/simple-socket-example/screenshots/Server.png)
+![Socket Client](https://raw.githubusercontent.com/soedomoto/EL5121-ITB2015/master/simple-socket-example/screenshots/Client.png)
+
 ### Licensing and Governance
 This example is licensed under a copyleft license
