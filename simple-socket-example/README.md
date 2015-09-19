@@ -19,8 +19,8 @@ node client.js
 ```
 
 ### Screeenshots
-![Socket Server](/simple-socket-example/screenshots/Server.png?raw=true "Socket Server" =250x)
-![Socket Client](/simple-socket-example/screenshots/Client.png?raw=true "Socket Client" =250x)
+![Socket Server](/simple-socket-example/screenshots/Server.png?raw=true =250x)
+![Socket Client](/simple-socket-example/screenshots/Client.png?raw=true =250x)
 
 ### Licensing and Governance
 This example is licensed under a copyleft license
