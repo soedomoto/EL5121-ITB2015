@@ -1,7 +1,7 @@
 # Socket Example
 This is socket example written in nodejs for supporting EL5121 Object Oriented Engineering Course at Master of Electric Engineering ITB
 
-### Requirement
+### Requirements
 This application is written in Javascript. You must install NodeJS to make this application run.
 To install NodeJS please follow this <a href="https://nodejs.org/en/download/" target="_blank">link</a>
 
