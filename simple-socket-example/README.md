@@ -19,8 +19,8 @@ node client.js
 ```
 
 ### Screeenshots
-<img src="/simple-socket-example/screenshots/Server.png" alt="Socket Server" width="250">
-<img src="/simple-socket-example/screenshots/Client.png" alt="Socket Client" width="250">
+<img src="/simple-socket-example/screenshots/Server.png" alt="Socket Server" width="400">
+<img src="/simple-socket-example/screenshots/Client.png" alt="Socket Client" width="400">
 
 ### Licensing and Governance
 This example is licensed under a copyleft license
